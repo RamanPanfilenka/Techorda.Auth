@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Techorda.Auth", "Techorda.Auth\Techorda.Auth.csproj", "{A6C388B4-52E1-41BB-A57F-2DE71A7D6C4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DA", "DA\DA.csproj", "{7B136864-53D6-496F-B6E4-09BBFB6D5918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6C388B4-52E1-41BB-A57F-2DE71A7D6C4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6C388B4-52E1-41BB-A57F-2DE71A7D6C4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6C388B4-52E1-41BB-A57F-2DE71A7D6C4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6C388B4-52E1-41BB-A57F-2DE71A7D6C4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B136864-53D6-496F-B6E4-09BBFB6D5918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B136864-53D6-496F-B6E4-09BBFB6D5918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B136864-53D6-496F-B6E4-09BBFB6D5918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B136864-53D6-496F-B6E4-09BBFB6D5918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ADA95AE-CB9B-4C93-8DC2-236D6474640B}
+	EndGlobalSection
+EndGlobal
